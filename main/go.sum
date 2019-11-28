@@ -2,3 +2,5 @@ github.com/yeochinyi/tut-anatomy-mod v1.0.0 h1:QkVcWxI+/fAn5U38jV5th57SLbrUwri4a
 github.com/yeochinyi/tut-anatomy-mod v1.0.0/go.mod h1:t6U6jv3C8Xfgqm/MpXBuqK6KmMlgzqDi6tqiJwOKky8=
 github.com/yeochinyi/tut-anatomy-mod v1.0.2 h1:B2lHgjjlsq+nXHKgMDiHy3JCafbZvU+z0SRuJl0kNwA=
 github.com/yeochinyi/tut-anatomy-mod v1.0.2/go.mod h1:t6U6jv3C8Xfgqm/MpXBuqK6KmMlgzqDi6tqiJwOKky8=
+github.com/yeochinyi/tut-anatomy-mod/v2 v2.0.0-20191128040831-97da404a21e8 h1:ABEHsaVcaWqvVXR5T1aemlz+yD55lfaJMImiluXHvbs=
+github.com/yeochinyi/tut-anatomy-mod/v2 v2.0.0-20191128040831-97da404a21e8/go.mod h1:ePOc2W96viv7HnKHKTOQJnhrL0PDJw2Z+uI3Wav4DbU=
